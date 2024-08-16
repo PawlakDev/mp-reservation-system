@@ -1,6 +1,6 @@
 <?php
 /*
-	Plugin Name: Praca Dyplomowa
+	Plugin Name: MP Reservation system
 	Description: Reservation system
 	Author: Mateusz Pawlak
 	Version: 1.0.0
